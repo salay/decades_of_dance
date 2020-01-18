@@ -32,4 +32,3 @@ DB.Decade.create(thisDecade, (err, savedDecade) => {
     }
     console.log(`saved a decade: ${savedDecade}`);
 })
-
